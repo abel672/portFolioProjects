@@ -1,5 +1,5 @@
-create schema [hospital];
-USE [hospital];
+create DATABASE hospital;
+USE hospital;
 
 CREATE TABLE sex_type
 (
