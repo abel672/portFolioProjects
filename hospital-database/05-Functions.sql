@@ -10,9 +10,5 @@ BEGIN
 	ELSE
 		RETURN FALSE;
         END IF;
-END
-$$
-
--- get patient's phone number
-
+END$$
 DELIMITER ;
